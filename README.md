@@ -5,7 +5,7 @@
 sf-compress
 ================
 
-Library for compressing Salesforce metadata files.
+Library for compressing Salesforce metadata.
 
 [![Version](https://img.shields.io/npm/v/sf-compress.svg)](https://npmjs.org/package/sf-compress)
 [![Known Vulnerabilities](https://snyk.io/test/github/gdman/sf-compress/badge.svg)](https://snyk.io/test/github/gdman/sf-compress)
