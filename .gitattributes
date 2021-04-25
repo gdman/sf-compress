@@ -1,0 +1,5 @@
+* text=auto
+
+# Tell git to tread xml files like binaries so it doesn't mess about with the line endings
+#  - I want it to specifically keep the different line endings for tests
+*.xml binary
