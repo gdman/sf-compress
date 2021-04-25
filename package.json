@@ -2,7 +2,8 @@
     "name": "sf-compress",
     "version": "0.0.0",
     "description": "Library for compressing Salesforce metadata",
-    "main": "index.js",
+	"bugs": "https://github.com/gdman/sf-compress/issues",
+    "main": "lib/index.js",
     "scripts": {
         "build": "rm -rf ./lib && tsc",
         "test": "jest --coverage",
