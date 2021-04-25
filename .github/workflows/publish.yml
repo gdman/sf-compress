@@ -63,4 +63,3 @@ jobs:
       run: npm publish ./sf-compress-${{ env.version }}.tgz
       env:
         NODE_AUTH_TOKEN: ${{secrets.npm_token}}
-    
